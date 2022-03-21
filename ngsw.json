@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1647870244514,
+  "timestamp": 1647873875778,
   "index": "/match-tracker/",
   "assetGroups": [
     {
@@ -11,16 +11,16 @@
         "ignoreVary": true
       },
       "urls": [
-        "/match-tracker/571.626401114b54aa97.js",
+        "/match-tracker/571.8305c0e739d79a43.js",
         "/match-tracker/638.0070ae6ffd0455d1.js",
         "/match-tracker/850.79cede05970cd3df.js",
         "/match-tracker/981.2dbadc164ee33eee.js",
         "/match-tracker/favicon.ico",
         "/match-tracker/index.html",
-        "/match-tracker/main.1b99a9d1b0684c66.js",
+        "/match-tracker/main.45fac060fa74ab91.js",
         "/match-tracker/manifest.webmanifest",
         "/match-tracker/polyfills.d787d1852743c2d9.js",
-        "/match-tracker/runtime.2423082b837aa753.js",
+        "/match-tracker/runtime.7281a8204dc17cad.js",
         "/match-tracker/scripts.66507d290b49f23d.js",
         "/match-tracker/styles.916c0e65062dc2bd.css"
       ],
@@ -34,7 +34,10 @@
         "ignoreVary": true
       },
       "urls": [
-        "/match-tracker/assets/icons/calendar.png",
+        "/match-tracker/assets/icons/128 x 128 - BMP (32-bit).png",
+        "/match-tracker/assets/icons/256 x 256 - BMP (32-bit).png",
+        "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png",
+        "/match-tracker/assets/icons/96 x 96 - BMP (32-bit).png",
         "/match-tracker/assets/icons/icon-128x128.png",
         "/match-tracker/assets/icons/icon-144x144.png",
         "/match-tracker/assets/icons/icon-152x152.png",
@@ -49,11 +52,14 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/match-tracker/571.626401114b54aa97.js": "5215ddfe10456e256e1210860cc517dc8cf0adef",
+    "/match-tracker/571.8305c0e739d79a43.js": "d9968d5a95dbb97de4f8e7f930010989ef70d44e",
     "/match-tracker/638.0070ae6ffd0455d1.js": "649d05a8e8115a100c5f115c9cdc4ef96726c20a",
     "/match-tracker/850.79cede05970cd3df.js": "97bb228bab42ef1494acb6b4b40809fd102149e0",
     "/match-tracker/981.2dbadc164ee33eee.js": "570fdc6be43ce18c55e83c0a964db2c0a1433c28",
-    "/match-tracker/assets/icons/calendar.png": "7244c0a88e51f13b73a4d2ab66d2a3f6e95a268f",
+    "/match-tracker/assets/icons/128 x 128 - BMP (32-bit).png": "26d9cb6ee8bd675f53c2f04c4caeae77920743b5",
+    "/match-tracker/assets/icons/256 x 256 - BMP (32-bit).png": "6c947b47e6506b040c0b64818f43b5c1efa3731a",
+    "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
+    "/match-tracker/assets/icons/96 x 96 - BMP (32-bit).png": "d6a00d11560f93cd851ad786ed0907d108bc4edb",
     "/match-tracker/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/match-tracker/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/match-tracker/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -63,11 +69,11 @@
     "/match-tracker/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/match-tracker/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/match-tracker/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/match-tracker/index.html": "cf8205c6571460ee1c753b0ff14502513164e36d",
-    "/match-tracker/main.1b99a9d1b0684c66.js": "b0d7439e6822cc25977b648bc21badc2ea418d39",
-    "/match-tracker/manifest.webmanifest": "1c7512d04594310450444843072eb8cc4802d120",
+    "/match-tracker/index.html": "fe191881e8c24b6ef217753e63f7c236f053334c",
+    "/match-tracker/main.45fac060fa74ab91.js": "ca76394733a8b83f2cad3484b6692cf009555969",
+    "/match-tracker/manifest.webmanifest": "188966e7c78cffad9c72fb8ed1ccc83591a731ff",
     "/match-tracker/polyfills.d787d1852743c2d9.js": "e0f66acc823b24f88d6020d4da3fe1342784bb22",
-    "/match-tracker/runtime.2423082b837aa753.js": "7f49104afc8a87c2d199ea315225d47cf405dc75",
+    "/match-tracker/runtime.7281a8204dc17cad.js": "60caf68afa1ef1fb4036b7f3b8c3c898ceed9dfe",
     "/match-tracker/scripts.66507d290b49f23d.js": "4ff2a3be98e9c09a8ded521d7a2926a21e98affc",
     "/match-tracker/styles.916c0e65062dc2bd.css": "6bd8bbe5a818de9fb82ba51e4f4bcdbdd8949819"
   },
