@@ -2,7 +2,7 @@
   "name": "Match Tracker",
   "short_name": "MT",
   "theme_color": "#343a40",
-  "background_color": "#fafafa",
+  "background_color": "gainsboro",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
