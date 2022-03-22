@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1647978411163,
+  "timestamp": 1647979013933,
   "index": "/match-tracker/",
   "assetGroups": [
     {
@@ -14,12 +14,12 @@
         "/match-tracker/571.c9584d0b44b9ac0a.js",
         "/match-tracker/638.b387eb32a2658070.js",
         "/match-tracker/850.4026a4fcdf736e62.js",
-        "/match-tracker/981.2dbadc164ee33eee.js",
+        "/match-tracker/981.b198ff7fe2258d89.js",
         "/match-tracker/index.html",
         "/match-tracker/main.96f44209963217d0.js",
         "/match-tracker/manifest.webmanifest",
         "/match-tracker/polyfills.d787d1852743c2d9.js",
-        "/match-tracker/runtime.2dcf701e6e081a70.js",
+        "/match-tracker/runtime.4256cbfa2f7586dc.js",
         "/match-tracker/scripts.66507d290b49f23d.js",
         "/match-tracker/styles.916c0e65062dc2bd.css"
       ],
@@ -56,7 +56,7 @@
     "/match-tracker/571.c9584d0b44b9ac0a.js": "a5cd71eed0792b055b64a752665e105862641924",
     "/match-tracker/638.b387eb32a2658070.js": "10c6a44afc28310725f8fc45ffcdbfad67612136",
     "/match-tracker/850.4026a4fcdf736e62.js": "fbaf4f67f30b13e87dd1eba6c8c0fd4ed0652a2d",
-    "/match-tracker/981.2dbadc164ee33eee.js": "570fdc6be43ce18c55e83c0a964db2c0a1433c28",
+    "/match-tracker/981.b198ff7fe2258d89.js": "e3e2905f12a9b5f1a87a396ad736625ca8a3a939",
     "/match-tracker/assets/icons/128 x 128 - BMP (32-bit).png": "26d9cb6ee8bd675f53c2f04c4caeae77920743b5",
     "/match-tracker/assets/icons/256 x 256 - BMP (32-bit).png": "6c947b47e6506b040c0b64818f43b5c1efa3731a",
     "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
@@ -71,11 +71,11 @@
     "/match-tracker/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/match-tracker/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/match-tracker/assets/icons/logo.png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
-    "/match-tracker/index.html": "97838f91c3813e77e0fdba33a1d91a136d75c37b",
+    "/match-tracker/index.html": "6871841a3605a88b2887d23185067f11214895cb",
     "/match-tracker/main.96f44209963217d0.js": "6d88579c3773721ddd46b697607500133494edcd",
     "/match-tracker/manifest.webmanifest": "8ef43cca9b2d613326ae46571c72bb01cf52a5c9",
     "/match-tracker/polyfills.d787d1852743c2d9.js": "e0f66acc823b24f88d6020d4da3fe1342784bb22",
-    "/match-tracker/runtime.2dcf701e6e081a70.js": "ebdfda4e9bed5677552ab5a6f0bd8fd52d8fd9d6",
+    "/match-tracker/runtime.4256cbfa2f7586dc.js": "fd4f6eeffd40292d2da1f70ba26ef0c408e0de06",
     "/match-tracker/scripts.66507d290b49f23d.js": "4ff2a3be98e9c09a8ded521d7a2926a21e98affc",
     "/match-tracker/styles.916c0e65062dc2bd.css": "6bd8bbe5a818de9fb82ba51e4f4bcdbdd8949819"
   },
