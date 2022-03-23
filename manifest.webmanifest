@@ -8,11 +8,6 @@
   "start_url": "./",
   "icons": [
     {
-      "src": "assets/icons/256 x 256 - BMP (32-bit).png",
-      "sizes": "256x256",
-      "type": "image/png"
-    },
-    {
       "src": "assets/icons/512x512.png",
       "sizes": "512x512",
       "type": "image/png"
