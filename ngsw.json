@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648052237882,
+  "timestamp": 1648055184948,
   "index": "/match-tracker/",
   "assetGroups": [
     {
@@ -40,6 +40,8 @@
         "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png",
         "/match-tracker/assets/icons/72 x 72- BMP (32-bit) (3).png",
         "/match-tracker/assets/icons/96 x 96 - BMP (32-bit).png",
+        "/match-tracker/assets/icons/badge.png",
+        "/match-tracker/assets/icons/badge_1.png",
         "/match-tracker/assets/icons/google.png",
         "/match-tracker/assets/icons/icon-128x128.png",
         "/match-tracker/assets/icons/icon-144x144.png",
@@ -67,6 +69,8 @@
     "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
     "/match-tracker/assets/icons/72 x 72- BMP (32-bit) (3).png": "25c234f61936df80e45f87af542a55df1f3c3dd6",
     "/match-tracker/assets/icons/96 x 96 - BMP (32-bit).png": "d6a00d11560f93cd851ad786ed0907d108bc4edb",
+    "/match-tracker/assets/icons/badge.png": "87acc12570aa6e4a914f4da06dfa19f2bfb47b15",
+    "/match-tracker/assets/icons/badge_1.png": "5534a76b062ab5b5d628e8f95b0b4b92eb313e6b",
     "/match-tracker/assets/icons/google.png": "d4104b25499f9642806f628a0139c35b51aec0a3",
     "/match-tracker/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/match-tracker/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
