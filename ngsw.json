@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648048425769,
+  "timestamp": 1648049439676,
   "index": "/match-tracker/",
   "assetGroups": [
     {
@@ -34,8 +34,11 @@
       },
       "urls": [
         "/match-tracker/assets/icons/128 x 128 - BMP (32-bit).png",
+        "/match-tracker/assets/icons/24 x 24 - BMP (32-bit) (1).png",
         "/match-tracker/assets/icons/256 x 256 - BMP (32-bit).png",
+        "/match-tracker/assets/icons/48 x 48- BMP (32-bit) (2).png",
         "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png",
+        "/match-tracker/assets/icons/72 x 72- BMP (32-bit) (3).png",
         "/match-tracker/assets/icons/96 x 96 - BMP (32-bit).png",
         "/match-tracker/assets/icons/google.png",
         "/match-tracker/assets/icons/icon-128x128.png",
@@ -58,8 +61,11 @@
     "/match-tracker/850.c2570317dc9f419d.js": "6f59ae3ad4e9a53e82ddd24237a0d7380a195c3d",
     "/match-tracker/981.38959dd76beff4ea.js": "8023af0fb2397d26076e8fb310b86ed21caba915",
     "/match-tracker/assets/icons/128 x 128 - BMP (32-bit).png": "26d9cb6ee8bd675f53c2f04c4caeae77920743b5",
+    "/match-tracker/assets/icons/24 x 24 - BMP (32-bit) (1).png": "091f491edd5df452c4de7fcd98d22476fc8c2019",
     "/match-tracker/assets/icons/256 x 256 - BMP (32-bit).png": "6c947b47e6506b040c0b64818f43b5c1efa3731a",
+    "/match-tracker/assets/icons/48 x 48- BMP (32-bit) (2).png": "0a2cb4bf9e5285fe7edf723050c99caa28aecf23",
     "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
+    "/match-tracker/assets/icons/72 x 72- BMP (32-bit) (3).png": "25c234f61936df80e45f87af542a55df1f3c3dd6",
     "/match-tracker/assets/icons/96 x 96 - BMP (32-bit).png": "d6a00d11560f93cd851ad786ed0907d108bc4edb",
     "/match-tracker/assets/icons/google.png": "d4104b25499f9642806f628a0139c35b51aec0a3",
     "/match-tracker/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
@@ -73,7 +79,7 @@
     "/match-tracker/assets/icons/logo.png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
     "/match-tracker/index.html": "d4b0c06752e32e776c1754f76d8f028c6ce71eaf",
     "/match-tracker/main.852363ee5c567eb3.js": "5a3d58ecb978f58fd615083b023ebe797c2d63f6",
-    "/match-tracker/manifest.webmanifest": "8ef43cca9b2d613326ae46571c72bb01cf52a5c9",
+    "/match-tracker/manifest.webmanifest": "48d47b35da4d03d4d2088ebb44eceb224a6fa3bb",
     "/match-tracker/polyfills.d787d1852743c2d9.js": "e0f66acc823b24f88d6020d4da3fe1342784bb22",
     "/match-tracker/runtime.68c3296441d25259.js": "6eee1c401db64633bac633b9374d8a9ef876aaac",
     "/match-tracker/scripts.66507d290b49f23d.js": "4ff2a3be98e9c09a8ded521d7a2926a21e98affc",

@@ -8,6 +8,21 @@
   "start_url": "./",
   "icons": [
     {
+      "src": "assets/icons/24 x 24 - BMP (32-bit).png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/48 x 48 - BMP (32-bit).png",
+      "sizes": "48x28",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/72 x 72 - BMP (32-bit).png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
       "src": "assets/icons/96 x 96 - BMP (32-bit).png",
       "sizes": "96x96",
       "type": "image/png"
