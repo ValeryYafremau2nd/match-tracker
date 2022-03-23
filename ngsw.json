@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648055184948,
+  "timestamp": 1648056520142,
   "index": "/match-tracker/",
   "assetGroups": [
     {
@@ -37,6 +37,7 @@
         "/match-tracker/assets/icons/24 x 24 - BMP (32-bit) (1).png",
         "/match-tracker/assets/icons/256 x 256 - BMP (32-bit).png",
         "/match-tracker/assets/icons/48 x 48- BMP (32-bit) (2).png",
+        "/match-tracker/assets/icons/512x512.png",
         "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png",
         "/match-tracker/assets/icons/72 x 72- BMP (32-bit) (3).png",
         "/match-tracker/assets/icons/96 x 96 - BMP (32-bit).png",
@@ -66,6 +67,7 @@
     "/match-tracker/assets/icons/24 x 24 - BMP (32-bit) (1).png": "091f491edd5df452c4de7fcd98d22476fc8c2019",
     "/match-tracker/assets/icons/256 x 256 - BMP (32-bit).png": "6c947b47e6506b040c0b64818f43b5c1efa3731a",
     "/match-tracker/assets/icons/48 x 48- BMP (32-bit) (2).png": "0a2cb4bf9e5285fe7edf723050c99caa28aecf23",
+    "/match-tracker/assets/icons/512x512.png": "7572f903b4d6620813faf8e16b2f2cc152ac2fa6",
     "/match-tracker/assets/icons/64 x 64 - BMP (32-bit).png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
     "/match-tracker/assets/icons/72 x 72- BMP (32-bit) (3).png": "25c234f61936df80e45f87af542a55df1f3c3dd6",
     "/match-tracker/assets/icons/96 x 96 - BMP (32-bit).png": "d6a00d11560f93cd851ad786ed0907d108bc4edb",
@@ -83,7 +85,7 @@
     "/match-tracker/assets/icons/logo.png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
     "/match-tracker/index.html": "c2d6348fcd7a98c47d1757345b165b021584ee16",
     "/match-tracker/main.f95d0a4e0c35ce4a.js": "0eed48e4de69b2bbc3b7c25cb20c6d65074973e9",
-    "/match-tracker/manifest.webmanifest": "48d47b35da4d03d4d2088ebb44eceb224a6fa3bb",
+    "/match-tracker/manifest.webmanifest": "7ad9de54a78e950b1947aa8c5cad881b442a6fcd",
     "/match-tracker/polyfills.d787d1852743c2d9.js": "e0f66acc823b24f88d6020d4da3fe1342784bb22",
     "/match-tracker/runtime.68c3296441d25259.js": "6eee1c401db64633bac633b9374d8a9ef876aaac",
     "/match-tracker/scripts.66507d290b49f23d.js": "4ff2a3be98e9c09a8ded521d7a2926a21e98affc",
