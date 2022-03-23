@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648057277887,
+  "timestamp": 1648057989140,
   "index": "/match-tracker/",
   "assetGroups": [
     {
@@ -85,7 +85,7 @@
     "/match-tracker/assets/icons/logo.png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
     "/match-tracker/index.html": "c2d6348fcd7a98c47d1757345b165b021584ee16",
     "/match-tracker/main.f95d0a4e0c35ce4a.js": "0eed48e4de69b2bbc3b7c25cb20c6d65074973e9",
-    "/match-tracker/manifest.webmanifest": "97c7c6f794a3a59349c3b6b2dec4c15dca1b9a87",
+    "/match-tracker/manifest.webmanifest": "70d03cba61aee6120bd16d2535f21c19eb8c4a1e",
     "/match-tracker/polyfills.d787d1852743c2d9.js": "e0f66acc823b24f88d6020d4da3fe1342784bb22",
     "/match-tracker/runtime.68c3296441d25259.js": "6eee1c401db64633bac633b9374d8a9ef876aaac",
     "/match-tracker/scripts.66507d290b49f23d.js": "4ff2a3be98e9c09a8ded521d7a2926a21e98affc",
