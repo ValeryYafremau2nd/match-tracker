@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1648133777605,
-  "index": "/match-tracker/",
+  "timestamp": 1648367148642,
+  "index": "/match-tracker/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -16,7 +16,7 @@
         "/match-tracker/638.c5f8f8320ab120b9.js",
         "/match-tracker/981.5726fd484883cb0e.js",
         "/match-tracker/index.html",
-        "/match-tracker/main.f45dd102804e8159.js",
+        "/match-tracker/main.96fdaf0946374194.js",
         "/match-tracker/manifest.webmanifest",
         "/match-tracker/polyfills.d787d1852743c2d9.js",
         "/match-tracker/runtime.688b319a36ce86c3.js",
@@ -83,8 +83,8 @@
     "/match-tracker/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/match-tracker/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/match-tracker/assets/icons/logo.png": "9157e1c0863d4861d1cce70a34a067d51495cbc8",
-    "/match-tracker/index.html": "641432798f711bdf2ce105d794b675b84c099a55",
-    "/match-tracker/main.f45dd102804e8159.js": "aed4bb39df760437125596e11a5e9dbe6b8104ef",
+    "/match-tracker/index.html": "ff7be42d1125dc58bbbb399efe6e852d69e0ec13",
+    "/match-tracker/main.96fdaf0946374194.js": "61777f0cffb42a7550322316c4a307073d850baa",
     "/match-tracker/manifest.webmanifest": "7c1f5d2b085836a12cc10044a8864b0f5fa628eb",
     "/match-tracker/polyfills.d787d1852743c2d9.js": "e0f66acc823b24f88d6020d4da3fe1342784bb22",
     "/match-tracker/runtime.688b319a36ce86c3.js": "0c25d312e24cf6577f53408a291ce3459bcb6593",
